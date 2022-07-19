@@ -1,11 +1,14 @@
 <script>
+
+
     let todo = '';
 
     import {addTodo} from "../storage/todoStorage.js"
     const handleSubmit = () => {
+        todo === '' ? alert("Must enter something for todo!") :
+
         addTodo(todo);
         todo = ''
-        console.log("submitting")
     }
 
 
