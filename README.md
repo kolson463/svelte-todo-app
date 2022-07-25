@@ -1,4 +1,4 @@
-# Basic svelte todo app with dark mode. 
+# Basic svelte todo app with dark/light mode toggle 
 
 ### Light Mode
 
