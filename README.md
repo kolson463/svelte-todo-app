@@ -2,10 +2,10 @@
 
 ### Light Mode
 
-![Light Mode Screenshot](/static/svelte-todo-light.jpg?raw=true "Light Mode Screenshot") 
+![Light Mode Screenshot](/todo-app/static/svelte-todo-light.jpg?raw=true "Light Mode Screenshot") 
 
 ### Dark Mode
-![Dark Mode Screenshot](/static/svelte-todo-dark.jpg?raw=true "Dark Mode Screenshot")
+![Dark Mode Screenshot](/todo-app/static/svelte-todo-dark.jpg?raw=true "Dark Mode Screenshot")
 
 # create-svelte
 
